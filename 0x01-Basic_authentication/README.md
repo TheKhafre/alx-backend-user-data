@@ -1,6 +1,7 @@
 # Basic authentication
+Oluwatobiloba Ezekiel
 
-This project contains tasks for learning to authenticate a user using the Basic authentication scheme.
+This project deals with authentication using the Basic authentication scheme.
 
 ## Tasks To Complete
 
